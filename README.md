@@ -1,3 +1,2 @@
-# Tis' the time to look at your plate!!
-why to be obscured when python is there
-hello this is O.K. ,i'm new to git but i'm on it.
+#See the code live on binder!
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Cornzi/hello-world/master?urlpath=%2Fvoila%2Frender%2FPlayer.ipynb)
